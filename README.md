@@ -1,1 +1,1 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=DaniSoudry99)](https://github.com/DaniSoudry99/DaniSoudry99)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Daniween&theme=onedark)](https://github.com/Daniween/Daniween)
