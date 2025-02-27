@@ -5,5 +5,3 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daniween&show_icons=true&locale=fr&layout=compact" alt="daniween" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=daniween&show_icons=true&locale=fr" alt="daniween" />
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=daniween&locale=fr" alt="daniween" />
