@@ -2,8 +2,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daniween&theme=chalk" alt="daniween" /></a> </p>
 
-<p align="left"> <a href="https://github.com/daniween" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniween&langs_count=10&icon_color=0891b2&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="daniween" /> </a> </p>
-
+<!-- <p align="left"> <a href="https://github.com/daniween" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniween&langs_count=10&icon_color=0891b2&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="daniween" /> </a> </p>  -->
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daniween&show_icons=true&locale=en&layout=compact" alt="daniween" /></p>
 <p align="left"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=daniween&show_icons=true&locale=en" alt="daniween" /> </p>
 
 
