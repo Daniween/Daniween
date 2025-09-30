@@ -15,3 +15,5 @@
 <img src="https://skillicons.dev/icons?i=aws,azure" />
 <img src="https://skillicons.dev/icons?i=phpstorm,postman,git,github,notion" />
 <img src="https://skillicons.dev/icons?i=photoshop,figma" /></p>
+
+![Image](https://github.com/user-attachments/assets/f965d356-cd5f-45f8-a0e8-6c44a80b0fd6)
