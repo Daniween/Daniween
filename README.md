@@ -5,7 +5,7 @@
 ![](https://github-trophies.vercel.app/?username=daniween)
 
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daniween&show_icons=true&locale=en&layout=compact&bg_color=00000000" alt="daniween" /></p>
-<p align="left"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=daniween&show_icons=true&locale=en&bg_color=00000000" alt="daniween" /> </p>
+<!--<p align="left"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=daniween&show_icons=true&locale=en&bg_color=00000000" alt="daniween" /> </p> -->
 
 
 ### Skills
@@ -16,5 +16,7 @@
 <img src="https://skillicons.dev/icons?i=aws,azure" />
 <img src="https://skillicons.dev/icons?i=phpstorm,postman,git,github,notion" />
 <img src="https://skillicons.dev/icons?i=photoshop,figma" /></p>
+
+<hr>
 
 ![Image](https://github.com/user-attachments/assets/f965d356-cd5f-45f8-a0e8-6c44a80b0fd6)
