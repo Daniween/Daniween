@@ -10,7 +10,7 @@
 
 ### Skills
 
-<p><img src="https://skillicons.dev/icons?i=react,angular,javascript,typescript,vuejs" />
+<p><img src="https://skillicons.dev/icons?i=react,angular,vuejs,javascript,typescript" />
 <img src="https://skillicons.dev/icons?i=java,spring,php,symfony,python,nodejs" />
 <img src="https://skillicons.dev/icons?i=postgres,mysql" />
 <img src="https://skillicons.dev/icons?i=aws,azure" />
