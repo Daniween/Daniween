@@ -4,18 +4,29 @@
 
 ![Daniween's GitHub Trophies](https://github-trophies.vercel.app/?username=daniween)
 
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daniween&show_icons=true&locale=en&layout=compact&bg_color=00000000" />
-</p>
-
 ### Skills
 
-<p><img src="https://skillicons.dev/icons?i=react,angular,vuejs,javascript,typescript" />
-<img src="https://skillicons.dev/icons?i=java,spring,php,symfony,python,nodejs" />
-<img src="https://skillicons.dev/icons?i=postgres,mysql" />
-<img src="https://skillicons.dev/icons?i=aws,azure" />
-<img src="https://skillicons.dev/icons?i=phpstorm,postman,git,github,notion" />
-<img src="https://skillicons.dev/icons?i=photoshop,figma" /></p>
+<table>
+  <tr>
+    <!-- Colonne gauche : Skills -->
+    <td valign="top" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=react,angular,vuejs,javascript,typescript" />
+      <img src="https://skillicons.dev/icons?i=java,spring,php,symfony,python,nodejs" /><br>
+      <img src="https://skillicons.dev/icons?i=postgres,mysql" /><br>
+      <img src="https://skillicons.dev/icons?i=aws,azure" />
+      <img src="https://skillicons.dev/icons?i=phpstorm,postman,git,github,notion" /><br>
+      <img src="https://skillicons.dev/icons?i=photoshop,figma" />
+    </td>
+    <td valign="top">
+      <img src="https://gh-readme-profile.vercel.app/api?username=daniween&theme=dark" />
+    </td>
+  </tr>
+</table>
 
 <hr>
 
 ![Image](https://github.com/user-attachments/assets/f965d356-cd5f-45f8-a0e8-6c44a80b0fd6)
+
+<hr>
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=daniween&theme=tokyo-night)
