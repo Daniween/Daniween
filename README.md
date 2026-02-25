@@ -26,7 +26,3 @@
 <hr>
 
 ![Image](https://github.com/user-attachments/assets/f965d356-cd5f-45f8-a0e8-6c44a80b0fd6)
-
-<hr>
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=daniween&theme=tokyo-night)
